@@ -1,0 +1,40 @@
+The Cyber Mentor
+https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw/playlists
+
+The Cyber Mentor has some awesome instructional playlists including 'Zero to Hero' which teach you the basics of penetration testing
+and assumes no prior knowledge. It starts from setting up a lab environment, touches on using python and goes as far as active directory
+attacks.
+His Buffer Overflow series is also really good, although some of the initial code didn't work for me so feel free to get in touch 
+if you'd like some pointers/a fix.
+
+Over The Wire
+https://overthewire.org/wargames/
+
+Awesome for learning the basics of command line and the power it holds. It starts at a basic level (reccomend startign with the Bandit
+challenge) and progresses in difficulty while providing links to resources to learn about the challenge.
+
+Root-ME
+https://www.root-me.org/?lang=en
+
+Similar to Over The Wire but has a broader range ofchallenges including crypt, Stegonography and web app. again it provides links to learn
+about the challenge you're trying to complete.
+
+Hack this Site
+https://www.hackthissite.org/
+Not been on here in a while but it's a safe place to learn and practice web app hacking skills.
+
+Hack the Box
+https://www.hackthebox.eu/
+
+Once you're starting to feel comfortable head over to Hack the Box and try to hack their home page to get an invite to join the site
+(instructions can be found on their website) and gain access to dozens of machines you can attack for user and root access, for
+£10 a month you can also get VIP access which gives you access to the retired machines along with their writeups.
+
+CTF Time
+https://ctftime.org/event/list/upcoming
+
+This site lists upcoming CTF events all over teh world but note some of them are available on line so you can take part from
+anywehere with internet access
+
+
+
